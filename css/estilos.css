@@ -1,0 +1,19 @@
+body {
+    background: #000;
+    color: #fff;
+    font-size: 18px;
+
+
+}
+h2 {color:lightcoral}
+p {color: lightseagreen;}
+
+
+
+div {
+    width: 100px;
+    height: 100px;
+    background: #4a88f4;
+    color: #fff;
+    font-size: 30px;
+}
